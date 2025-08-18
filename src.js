@@ -5,7 +5,7 @@ let 订阅路径 = "订阅路径";
 
 let 验证UUID;
 
-let 优选链接 = "https://raw.githubusercontent.com/ImLTHQ/edgetunnel/main/AutoTest.txt";
+let 优选链接 = "https://raw.githubusercontent.com/avotcorg/edgetunnel/refs/heads/main/AutoTest.txt";
 let 优选列表 = [];
 
 let SOCKS5代理 = false;
@@ -503,3 +503,4 @@ rules:
     headers: { "Content-Type": "text/plain;charset=utf-8" },
   });
 }
+
